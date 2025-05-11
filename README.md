@@ -9,10 +9,10 @@ A starter-Kit featuring **Nextjs & Hardhat**, designed for building `dApps`, as 
 Open up your terminal (or command prompt) and type the following command:
 
 ```sh
-git clone https://github.com/asharibali/decentral-developers-blockchain-workshop.git
+git clone https://github.com/asharibali/decentral-developers-workshop.git
 
 # cd into the directory
-cd decentral-developers-blockchain-workshop
+cd decentral-developers-workshop
 ```
 
 ### 📜 Smart Contracts
@@ -118,4 +118,4 @@ If you enjoy using this project, please show your support by starring the reposi
 
 ## ⚖️ License
 
-This project is licensed under the [MIT License](https://github.com/asharibali/decentral-developers-blockchain-workshop/blob/main/LICENSE.md).
+This project is licensed under the [MIT License](https://github.com/asharibali/decentral-developers-workshop/blob/main/LICENSE.md).
