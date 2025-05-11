@@ -34,7 +34,7 @@ function App() {
           setWeb3(web3);
           const networkId: any = await web3.eth.getChainId();
           setGetNetwork(networkId);
-          const contractAddress = "0xbb9a9F5a97033E13bdA3c8f6d72b6eEA8de7a492";
+          const contractAddress = "0xD816027738E1eFa0B54781FCD01e04A22bCf1660";
           setContractAddress(contractAddress);
           const Greeter = new web3.eth.Contract(
             contractJson.abi,

@@ -74,7 +74,7 @@ npx hardhat run scripts/deploy.ts --network sepolia
 
 ## **Copy and paste the generated contract JSON ABI folder `contracts` inside the `backend/src/contracts` directory to the `/frontend/` directory.**
 
-## **Copy and paste the deployed contract address [here](https://github.com/AsharibAli/decentral-developers-blockchain-workshop/blob/main/frontend/app/page.tsx#L37).**
+## **Copy and paste the deployed contract address [here](https://github.com/AsharibAli/decentral-developers-workshop/blob/main/frontend/app/page.tsx#L37).**
 
 ### 💻 Next.js client
 
